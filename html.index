@@ -1,1 +1,47 @@
-<!DOCTYPE>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lần 3</title>
+    </head>
+    <body>
+        <p>Trường THPT TÂN AN</p>
+        <p>Le Ho Thanh Phuong</p>
+        <p>Lớp:12A5</p>
+        <h1 style="color:green">Danh sách Phim ưu thích</h1>
+        <ol style="list-style-type: disc;">
+            <li style="color:red;"><b><u>Kinh dị</b></u></li>
+            <ol typle="1">
+                <dt>
+                <li>The Conjuring series</li>
+                <li>IT</li>
+                <li>Insidious</li>
+                <li>American Horror Story</li>
+                </dt>
+            <dd>
+                <ol type="a">
+                    <li>Freak Show (2014-2015) </li>
+                    <li>Roanoke (2016)</li>
+                    <li>Double Feature (2021)</li>
+                </ol>
+            </dd>
+            <li>The Thing</li>
+            </ol>
+            <li style="color:pink"><b><u>Hoạt Hình</u></b></li>
+            <ol type="1">
+                <dt>
+                <li>The Amazing World of Gumball</li>
+                <li>Adventure time</li>
+                <li>Ben 10</li>
+            </dt>
+            <dd>
+                <ol type="a">
+                    <li>Ben 10: Alien Force</li>
+                    <li>Ben 10: Ultimate Alien</li>
+                    <li>Ben 10: Omniverse</li>
+                </ol>
+            </dd>
+            <li>Gravity Falls</li>
+            </ol>
+        </ol>
+    </body>
+</html>
